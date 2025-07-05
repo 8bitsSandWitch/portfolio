@@ -6,11 +6,11 @@
 const aboutItems = [
     {
       label: 'Project done',
-      number: 45
+      number: 15
     },
     {
       label: 'Years of experience',
-      number: 10
+      number: 3
     }
   ];
 
