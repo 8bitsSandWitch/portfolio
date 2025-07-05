@@ -42,13 +42,13 @@ const works = [
     },
     {
       imgSrc: '/images/Projects/Full/DD.png',
-      title: 'School Examination Work Collector',
+      title: 'Gastronomy Website',
       tags: ['eCommerce', 'Development'],
       projectLink: 'https://preview--gourmand-delice-virtuel.lovable.app/'
     },
     {
       imgSrc: '/images/Projects/Full/AutoLux.png',
-      title: 'Messenger App',
+      title: 'Car Dealership Website',
       tags: ['Web-design', 'Development'],
       projectLink: 'https://preview--voiture-vibes-studio.lovable.app'
     },
