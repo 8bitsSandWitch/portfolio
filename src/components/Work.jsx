@@ -15,40 +15,42 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-      imgSrc: '/images/project-1.jpg',
-      title: 'Online Education Platform',
+      imgSrc: '/images/Projects/Versenco.png',
+      title: 'Stunting Portfolio',
       tags: ['API', 'MVC', 'Development'],
-      projectLink: 'https://onlineeducation.serv00.net/'
+      projectLink: 'https://versenco.vercel.app'
     },
     {
-      imgSrc: '/images/project-2.jpg',
-      title: 'Electronic Mail Management System',
+      imgSrc: '/images/Projects/Full/cloud_vault.png',
+      title: 'Free stock photo app',
+      // title: 'Electronic Mail Management System',
       tags: ['API', 'SPA'],
-      projectLink: 'https://pixstock-official.vercel.app/'
+      projectLink: 'https://preview--vivid-memory-hub.lovable.app/'
     },
     {
-      imgSrc: '/images/project-3.jpg',
-      title: 'Job Application Tracker and Management System',
+      imgSrc: '/images/Projects/Full/DS.png',
+      title: 'Recipe app',
+      // title: 'Job Application Tracker and Management System',
       tags: ['Development', 'API'],
-      projectLink: ''
+      projectLink: 'https://preview--gourmand-3d-delights.lovable.app'
     },
     {
-      imgSrc: '/images/project-4.jpg',
+      imgSrc: '/images/Projects/Full/VersenStock.png',
       title: 'Stock Management System',
       tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee-org/wealthome'
+      projectLink: 'https://preview--stock-flow-versen.lovable.app'
     },
     {
-      imgSrc: '/images/project-5.jpg',
+      imgSrc: '/images/Projects/Full/DD.png',
       title: 'School Examination Work Collector',
       tags: ['eCommerce', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
+      projectLink: 'https://preview--gourmand-delice-virtuel.lovable.app/'
     },
     {
-      imgSrc: '/images/project-6.jpg',
+      imgSrc: '/images/Projects/Full/AutoLux.png',
       title: 'Messenger App',
       tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
+      projectLink: 'https://preview--voiture-vibes-studio.lovable.app'
     },
 ];
 

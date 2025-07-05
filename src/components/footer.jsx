@@ -44,11 +44,11 @@ const socials = [
   },
   {
     label: 'Twitter X',
-    href: 'https://x.com/'
+    href: 'https://x.com/8bitsSandWitch'
   },
   {
     label: 'Instagram',
-    href: 'https://www.instagram.com/'
+    href: 'https://www.instagram.com/8bitssandwitch'
   },
   {
     label: 'CodePen',
@@ -58,6 +58,8 @@ const socials = [
 
 
 const footer = () => {
+  const currentYear = new Date().getFullYear();
+
   return (
     <footer className="section">
       <div className="container">
@@ -132,7 +134,7 @@ const footer = () => {
           </a>
 
           <p className="text-zinc-500 text-sm reveal-up">
-            &copy; 2024 <span className="text-zinc-200">Versenco. All rights reserved.</span>
+            &copy; {currentYear} <span className="text-zinc-200">Versenco. All rights reserved.</span>
           </p>
         </div>
 
